@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetGUID", "GetGUID\GetGUID.csproj", "{A4B82B65-E391-44F1-B731-458D2929C312}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPandCRM", "GetGUID\SPandCRM.csproj", "{A4B82B65-E391-44F1-B731-458D2929C312}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
